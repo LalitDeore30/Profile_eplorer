@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav Sharma",
+        "photo": "/images/aarav.jpg",
+        "description": "Frontend Developer from Pune, Maharashtra.",
+        "address": "101 MG Road, Pune, Maharashtra, India",
+        "contact": "aarav.sharma@example.com",
+        "interests": [
+            "Coding",
+            "Cricket",
+            "Reading"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sneha Patel",
+        "photo": "/images/sneha.jpg",
+        "description": "UX Designer based in Ahmedabad, Gujarat.",
+        "address": "22 CG Road, Ahmedabad, Gujarat, India",
+        "contact": "sneha.patel@example.com",
+        "interests": [
+            "Design",
+            "Traveling",
+            "Photography"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Rohan Verma",
+        "photo": "/images/rohan.jpg",
+        "description": "Project Manager from Bengaluru, Karnataka.",
+        "address": "55 Indiranagar, Bengaluru, Karnataka, India",
+        "contact": "rohan.verma@example.com",
+        "interests": [
+            "Management",
+            "Cooking",
+            "Running"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Priya Iyer",
+        "photo": "/images/priya.jpg",
+        "description": "Software Engineer from Chennai, Tamil Nadu.",
+        "address": "12 Marina Beach Road, Chennai, Tamil Nadu, India",
+        "contact": "priya.iyer@example.com",
+        "interests": [
+            "Artificial Intelligence",
+            "Bharatanatyam",
+            "Blogging"
+        ]
+    }
+]

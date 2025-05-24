@@ -1,0 +1,24 @@
+.profile-details-box {
+  position: relative;
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  font-family: 'Work Sans', 'Poppins', sans-serif;
+
+}
+
+
+
+.profile-details-photo {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.profile-info p {
+  margin: 0.5rem 0;
+}
